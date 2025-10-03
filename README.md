@@ -11,9 +11,9 @@ Model Training: Used Naive Bayes due to its effectiveness in text classification
 Prediction Function: Classifies new email text as "spam" or "ham."
 Evaluation: Compared multiple models, confirmed Naive Bayes as the best performer.
 
-How to Run
+How to Run:
 You can directly open it in Colab from GitHub.
 
-Results
+Results:
 Naive Bayes achieved the best accuracy.
 The system effectively distinguishes between spam and ham emails.
